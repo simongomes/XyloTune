@@ -1,4 +1,4 @@
-# xylotune
+# XyloTune
 
 A simple and handy Xylophone pocket app.
 
